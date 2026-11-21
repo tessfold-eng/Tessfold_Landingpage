@@ -2,7 +2,7 @@
   "title": "Tessfold",
   "description": "Automates import-export documentation by streamlining PO collection, ERP mapping, and document creation to reduce errors and speed up workflows.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
